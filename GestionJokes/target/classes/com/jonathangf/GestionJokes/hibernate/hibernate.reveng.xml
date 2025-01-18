@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-name="categories"/>
+  <table-filter match-name="flags"/>
+  <table-filter match-name="jokes"/>
+  <table-filter match-name="jokes_flags"/>
+  <table-filter match-name="language"/>
+  <table-filter match-name="types"/>
+</hibernate-reverse-engineering>
